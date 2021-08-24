@@ -17,6 +17,7 @@ Maybe in later version, it would be bigger enough to show some cartoon character
 
 这里说明一下，如果你有经验可能做起来比较轻松，这其中有很多的东西我无法讲的很细，因为每一步都自己去钻研，如果你可以接触到我，或者是你完成到了哪一步，可以联系我，我们可以在私下细细详细交流。
 GitHub上的项目大部分都是代码，也是我用来储存项目的一个地方，所以并没有详细的教程，而且详细地记录每一步也挺麻烦的。
+还有我的大部分项目的readme都是简短的英文，主要是用来锻炼锻炼自己的英文，没有其他想法。
 
 ![ESP32 Web Server](https://user-images.githubusercontent.com/75357598/130456582-94beed11-6500-4b3d-ad48-2392277de77c.jpg)
 ![IMG_20210823_211326](https://user-images.githubusercontent.com/75357598/130456016-e3e79229-e39e-4cd6-acee-17ce970fdfba.jpg)
