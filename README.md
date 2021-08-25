@@ -1,4 +1,4 @@
-# 8X8-LED-MAtrix-using-ESP32-Web-Server
+# 8X8-LED-Matrix-using-ESP32-Web-Server
 This is a small LED matrix that only has 8X8 LEDs,so the display is limited.But it has some built-in animations, and message display.Due to the web server driven by websocket and json,so it can tramsfer more information,and all the information can be updated to all connected clients.To avoid some conditions,I put some buttons to control dispaly.Buttons can also update current sate to all clients.
 
 Maybe in later version, it would be bigger enough to show some cartoon characters,time ,whether,some patterns and more features.
