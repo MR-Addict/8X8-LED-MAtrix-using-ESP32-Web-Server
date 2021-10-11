@@ -5,12 +5,15 @@ Maybe in later version, it would be bigger enough to show some cartoon character
 
 
 硬件列表如下：
+
 ![list](https://user-images.githubusercontent.com/75357598/130594969-add4196c-0c75-4d98-849c-a53913a1239c.jpg)
+
 然后按照如下原理图接线：
 
-![原理图](https://user-images.githubusercontent.com/75357598/130595212-147870f1-fbea-40d2-ac0a-c7d5125c28bc.jpg)
+![8X8 LED Matrix Schemaic](https://user-images.githubusercontent.com/75357598/136788159-0e2ab668-385e-4bf7-b768-b095450a6685.png)
 
 焊接完大概是这样：
+
 ![样图](https://user-images.githubusercontent.com/75357598/130595277-4abf2377-1063-4860-ab3b-95555398f5b5.jpg)
 
 然后就可以烧录happy了！！！
@@ -22,4 +25,5 @@ Maybe in later version, it would be bigger enough to show some cartoon character
 ![IMG_20210823_211317](https://user-images.githubusercontent.com/75357598/130456091-7dd6fd61-789a-4962-95c4-e6445885d827.jpg)
 ![IMG_20210823_211016](https://user-images.githubusercontent.com/75357598/130456062-52838ccc-a89c-48ba-877a-36912a44d189.jpg)
 ![IMG_20210823_211108](https://user-images.githubusercontent.com/75357598/130456076-1e70932e-17b4-4906-ac0b-3218c87ce35a.jpg)
+
 https://user-images.githubusercontent.com/75357598/130456043-697a7ed1-00f5-49cd-a832-8fa7e522fccb.mp4
